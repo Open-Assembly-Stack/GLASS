@@ -18,4 +18,4 @@
   But I, OutOfIQ, would recommend using a TTY (TeleTypeWritter) to make it run as window support is yet to come.
 
 # Community:
-- (Discord)[https://dyno.gg/manage/1501565524448907314]
+- [Discord](https://discord.gg/ZZBFhft6EY)
