@@ -1,4 +1,5 @@
-# GLASS - Graphics Library in Assembly
+# ~~GLASS - Graphics Library in Assembly~~
+## DISCONTINUED
 
 ## NOTICE: THIS LIBRARY IS STILL IN EARLY DEVELOPMENT. EXPECT LATE-TIME UPDATES AND COMMITS.
 
@@ -18,4 +19,4 @@
   But I, OutOfIQ, would recommend using a TTY (TeleTypeWritter) to make it run as window support is yet to come.
 
 # Community:
-- [Discord](https://discord.gg/ZZBFhft6EY)
+it's no more.
