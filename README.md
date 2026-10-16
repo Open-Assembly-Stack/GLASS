@@ -1,8 +1,6 @@
 # ~~GLASS - Graphics Library in Assembly~~
 ## DISCONTINUED
 
-## NOTICE: THIS LIBRARY IS STILL IN EARLY DEVELOPMENT. EXPECT LATE-TIME UPDATES AND COMMITS.
-
 ### Have you ever wanted to use your assembly brain to make an application with GUI? No? Yes? Maybe?
   It doesn't matter! GLASS is here for you to use! THough here are a few things to note:
 
